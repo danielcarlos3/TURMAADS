@@ -8,7 +8,7 @@
     <?php include_once "csspadrao.php"; ?>
 </head>
 
-<body class="hold-transition login-page">
+<body class="hold-transition login-page" id="pgdegrade">
     <div class="login-box">
         <!-- /.login-logo -->
         <div class="card card-outline card-primary">
